@@ -63,7 +63,7 @@ export default function Event() {
                     return pageNumbers;
                 }
                 return (
-                    <Layout>
+                    <>
                         <div>
                             <section class="new00">
                                 <div class="secation01 bhg secn_abouts">
@@ -162,7 +162,7 @@ export default function Event() {
                             </section>
 
                         </div>
-                    </Layout>
+                    </>
                 )
             }
 
